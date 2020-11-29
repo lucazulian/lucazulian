@@ -7,5 +7,5 @@
 
 ### Contact 🤝
 
-* ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), on [LinkedIn](https://www.linkedin.com/in/zulianluca/) or at contact (at) lucazulian.it.  
+* ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), on [LinkedIn](https://www.linkedin.com/in/zulianluca/), on [Goodreads](https://www.goodreads.com/user/show/75913668-luca) or at contact (at) lucazulian.it.  
 * 📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/luca_julian/office-hours)
