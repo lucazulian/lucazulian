@@ -2,7 +2,8 @@
 
 * I'm a software developer living in Milan, born and raised in Treviso (Italy 🇮🇹).
 * I've been programming for over half my life, I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, Elixir, Rust, etc (most of my recent projects have been written in Elixir).
-* I believe in the value of Open Source software, and run Linux upon all the systems I use.
+* I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme.
+* I believe in the value of Open Source Software.
 * My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages and virtual machines.
 
 ### Contact 🤝
