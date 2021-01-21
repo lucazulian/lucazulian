@@ -14,6 +14,11 @@
 * Distributed systems
 * Robotics
 
+### :video_game: When I am NOT at writing code, I enjoy to:
+
+* Read books :books:
+* Walk :walking: or run :running:
+
 ### 🤝 Contact
 
 * ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), on [LinkedIn](https://www.linkedin.com/in/zulianluca/), on [Goodreads](https://www.goodreads.com/user/show/75913668-luca) or at contact (at) lucazulian.it.  
