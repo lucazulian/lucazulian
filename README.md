@@ -13,6 +13,7 @@
 * Programming languages & PLT
 * Distributed systems
 * Robotics
+* Model checking and formal specification languages
 
 ### :video_game: When I am NOT at writing code, I enjoy to:
 
