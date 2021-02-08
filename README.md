@@ -1,5 +1,3 @@
-[![Editor](https://img.shields.io/badge/editor-doom&ndash;emacs-blue)](https://github.com/hlissner/doom-emacs) ![location](https://img.shields.io/badge/location-🇮🇹%20Milan-green)
-
 ### 👋 Ciao!
 
 * I'm a software craftsman living in Milan, born and raised in Treviso (Italy 🇮🇹).
