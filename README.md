@@ -18,6 +18,7 @@
 
 * Read books :books:
 * Walk :walking: or run :running:
+* Make fresh pasta :spaghetti:
 
 ### :handshake: Contact
 
