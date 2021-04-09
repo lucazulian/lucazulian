@@ -27,4 +27,6 @@
 * 📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/lucazulian/office-hours)
 * :page_with_curl: You can find [here my resume](https://github.com/lucazulian/resume)
 
+It might get some time for me to answer, but I promise I'll do.
+
 ❤ If you like what I do, consider becoming a [GitHub Sponsor](https://github.com/sponsors/lucazulian) or [Buy Me a Coffee](https://www.buymeacoffee.com/lucazulian)  – Thank you.
