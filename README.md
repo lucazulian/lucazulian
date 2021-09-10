@@ -3,7 +3,6 @@
 * I'm a software craftsman living in Milan, born and raised in Treviso (Italy 🇮🇹).
 * I've been programming for over half my life, I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, Elixir, etc (most of my recent projects have been written in Elixir).
 * I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme.
-* I believe in the value of Open Source Software.
 * My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages, virtual machines and autonomous robot.
 
 ### :raised_hands: What I'm (Currently) Excited About
@@ -30,4 +29,4 @@
 
 It might get some time for me to answer, but I promise I'll do.
 
-❤ If you like what I do, consider becoming a [GitHub Sponsor](https://github.com/sponsors/lucazulian) or [Buy Me a Coffee](https://www.buymeacoffee.com/lucazulian)  – Thank you.
+❤ If you like what I do, consider becoming a [GitHub Sponsor](https://github.com/sponsors/lucazulian) – Thank you.
