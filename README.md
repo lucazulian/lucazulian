@@ -4,6 +4,7 @@
 * I've been programming for over half my life, I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, Elixir, etc (most of my recent projects have been written in Elixir).
 * I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme.
 * My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages, virtual machines and autonomous robot.
+* :rainbow_flag: He/Him
 
 ### :raised_hands: What I'm (Currently) Excited About
 
