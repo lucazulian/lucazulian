@@ -23,10 +23,11 @@
 
 ### :handshake: Contact
 
+* :notebook: You can read about my [professional experience, tech stuff and my thoughts](https://github.com/lucazulian/journal)
 * ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), on [LinkedIn](https://www.linkedin.com/in/zulianluca/) or on [Goodreads](https://www.goodreads.com/user/show/75913668-luca)
 * :mailbox: The best way to reach me for quick things is by email at contact (at) lucazulian (dot) it. I’m usually happy to talk about stuff, even if I don’t know you! Especially if you follow [this cold email advice](https://sriramk.com/coldemail). 
 * 📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/lucazulian/office-hours)
-* :page_with_curl: You can find [here my resume](https://github.com/lucazulian/resume)
+* :page_with_curl: You can find [my resume](https://github.com/lucazulian/resume)
 
 It might get some time for me to answer, but I promise I'll do.
 
