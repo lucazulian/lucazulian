@@ -20,6 +20,7 @@
 * Read books :books:
 * Walk :walking: or run :running:
 * Make fresh pasta :spaghetti:
+* Occasionally I write some [thoughts](https://github.com/lucazulian/journal)
 
 ### :handshake: Contact
 
