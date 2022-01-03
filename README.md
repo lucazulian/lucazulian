@@ -5,7 +5,7 @@
 * My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages, virtual machines and autonomous robot.
 * :rainbow_flag: He/Him
 
-### :raised_hands: What I'm (Currently) Excited About
+### :raised_hands: What I'm (currently) excited about
 
 * Programming languages & PLT
 * Distributed systems
@@ -16,12 +16,12 @@
 ### :video_game: When I am NOT at writing code, I enjoy to:
 
 * Read books :books:
-* Walk :walking: or run :running:
+* Walking :walking:, running :running: or climbing :climbing:
 * Make fresh pasta :spaghetti:
 
 ### :handshake: Contact
 
-* ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), on [LinkedIn](https://www.linkedin.com/in/zulianluca/) or on [Goodreads](https://www.goodreads.com/user/show/75913668-luca)
-* :mailbox: The best way to reach me for quick things is by email at contact (at) lucazulian (dot) it. I’m usually happy to talk about stuff, even if I don’t know you!
+* ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), [LinkedIn](https://www.linkedin.com/in/zulianluca/) or [Goodreads](https://www.goodreads.com/user/show/75913668-luca)
+* :mailbox: The best way to reach me for quick things is by email at contact (at) lucazulian (dot) it
 * 📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/lucazulian/office-hours)
 * :page_with_curl: You can find [my resume](https://github.com/lucazulian/resume)
