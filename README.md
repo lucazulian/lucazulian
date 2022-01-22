@@ -1,7 +1,7 @@
 ### :wave: Ciao!
 
 * I'm a software craftsman living in Milan, born and raised in Treviso (Italy 🇮🇹).
-* I've been programming for over half my life, I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, Elixir (most of my recent projects have been written in Elixir) but I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme.
+* I've been programming for over half my life, I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, Elixir (most of my recent projects have been written in Elixir) but I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme, Agda and Elm.
 * My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages, virtual machines and autonomous robot.
 * :rainbow_flag: He/Him
 
@@ -10,18 +10,16 @@
 * Programming languages & PLT
 * Distributed systems
 * Robotics
-* Model checking and formal specification languages
 * Functional programming
 
 ### :video_game: When I am NOT at writing code, I enjoy to:
 
 * Read books :books:
-* Walking :walking:, running :running: or climbing :climbing:
+* Walking :walking:, running :running:, climbing :climbing: or sailing :sailboat:
 * Make fresh pasta :spaghetti:
 
 ### :handshake: Contact
 
 * ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), [LinkedIn](https://www.linkedin.com/in/zulianluca/) or [Goodreads](https://www.goodreads.com/user/show/75913668-luca)
-* :mailbox: The best way to reach me for quick things is by email at contact (at) lucazulian (dot) it
-* 📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/lucazulian/office-hours)
-* :page_with_curl: You can find [my resume](https://github.com/lucazulian/resume)
+* :mailbox: The best way to reach me for quick things is by email at contact (at) lucazulian (dot) it or talk [face to face](https://calendly.com/lucazulian/office-hours)
+* :page_with_curl: You can find my resume on [resume repository](https://github.com/lucazulian/resume)
