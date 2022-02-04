@@ -12,6 +12,7 @@
 * Distributed systems
 * Robotics
 * Functional programming
+* Formal methods
 
 ### :video_game: When I am NOT at writing code, I enjoy to:
 
