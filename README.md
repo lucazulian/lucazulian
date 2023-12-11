@@ -16,7 +16,7 @@
 * Formal methods
 
 
-### :video_game: When I am NOT at writing code, I enjoy to:
+### :video_game: When I am NOT at writing code, I enjoy to
 
 * Read books :books:
 * Walking :walking:, running :running:, climbing :climbing: or sailing :sailboat:
