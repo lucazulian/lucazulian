@@ -21,10 +21,3 @@
 * Read books :books:
 * Walking :walking:, running :running:, climbing :climbing: or sailing :sailboat:
 * Make fresh pasta :spaghetti:
-
-
-### :handshake: Contact
-
-* ✍️ You can reach out to me on [Twitter](https://twitter.com/luca_julian), [LinkedIn](https://www.linkedin.com/in/zulianluca/) or [Goodreads](https://www.goodreads.com/user/show/75913668-luca)
-* :mailbox: The best way to reach me for quick things is by email at info (at) lucazulian (dot) it or talk [face to face](https://calendly.com/lucazulian/office-hours)
-* :page_with_curl: You can find my resume on [this repository](https://github.com/lucazulian/resume)
