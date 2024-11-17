@@ -19,4 +19,4 @@
 - Walking :walking:, running :running:, climbing :climbing: or sailing :sailboat:
 - Make fresh pasta :spaghetti: or bread :bread:
 
-### :newspaper: You can find me on [twitter](https://twitter.com/luca_julian), [LinkedIn](https://www.linkedin.com/in/zulianluca/) or [mastodon](https://mastodon.online/@luca_julian)
+### :newspaper: You can find me on [Bluesky](https://bsky.app/profile/lucazulian.bsky.social), [LinkedIn](https://www.linkedin.com/in/zulianluca/)
