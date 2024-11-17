@@ -1,7 +1,8 @@
 ### :wave: Ciao!
 
-Hi 👋, My name is Luca Zulian and I am a Senior Software Engineer with a more than a decade of experience in building scalable and robust applications.
+Hi, My name is Luca Zulian and I am a Senior Software Engineer with a more than a decade of experience in building scalable and robust applications.
 Specializing in Elixir, Phoenix, Postgres and Typescript, I bring a complete set of skills to drive innovation and excellence within full stack web development with a strong software development life cycle knowledge with a keen eye for product delivery and testing.
+I enjoy participating in tech communities and meetups.
 
 ### :billed_cap: More about myself
 
@@ -31,5 +32,17 @@ Specializing in Elixir, Phoenix, Postgres and Typescript, I bring a complete set
 - Read books :books:
 - Walking :walking:, running :running:, climbing :climbing: or sailing :sailboat:
 - Make fresh pasta :spaghetti: or bread :bread:
+
+### :books: Books
+
+Currently reading:
+- [Understanding Cryptography, Second Edition](https://www.cryptography-textbook.com/)
+- [The Little Learner](https://www.thelittlelearner.com/)
+
+Tech books I have read lately:
+
+Books I plan to read next:
+
+You can find more on my [Goodreads](https://www.goodreads.com/user/show/75913668-luca) profile
 
 ### :newspaper: You can find me on [Bluesky](https://bsky.app/profile/lucazulian.bsky.social), [LinkedIn](https://www.linkedin.com/in/zulianluca/) or [Mastodon](https://mastodon.online/@luca_julian)
