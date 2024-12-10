@@ -38,10 +38,20 @@ I enjoy participating in tech communities and meetups.
 Currently reading:
 - [Understanding Cryptography, Second Edition](https://www.cryptography-textbook.com/)
 - [The Little Learner](https://www.thelittlelearner.com/)
+- [How to Design Programs](https://htdp.org/)
 
 Tech books I have read lately:
+- [Programming Elixir 1.6](https://pragprog.com/titles/elixir16/programming-elixir-1-6/)
+- [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
+- [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/)
+- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
+- [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/)
+- [Metaprogramming Elixir](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/)
 
 Books I plan to read next:
+- [Network Programming in Elixir and Erlang](https://pragprog.com/titles/alnpee/network-programming-in-elixir-and-erlang/)
+- [Engineering Elixir Applications](https://pragprog.com/titles/beamops/engineering-elixir-applications/)
+- [Machine Learning in Elixir](https://pragprog.com/titles/smelixir/machine-learning-in-elixir/)
 
 You can find more on my [Goodreads](https://www.goodreads.com/user/show/75913668-luca) profile
 
