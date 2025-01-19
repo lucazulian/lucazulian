@@ -39,6 +39,9 @@ Currently reading:
 - [Understanding Cryptography, Second Edition](https://www.cryptography-textbook.com/)
 - [The Little Learner](https://www.thelittlelearner.com/)
 - [How to Design Programs](https://htdp.org/)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Programming in Lua, Fourth Edition](https://www.lua.org/pil/#4ed)
+- [The Erlang Run-Time System](https://blog.stenmans.org/theBeamBook/)
 
 Tech books I have read lately:
 - [Programming Elixir 1.6](https://pragprog.com/titles/elixir16/programming-elixir-1-6/)
@@ -53,6 +56,6 @@ Books I plan to read next:
 - [Engineering Elixir Applications](https://pragprog.com/titles/beamops/engineering-elixir-applications/)
 - [Machine Learning in Elixir](https://pragprog.com/titles/smelixir/machine-learning-in-elixir/)
 
-You can find more on my [Goodreads](https://www.goodreads.com/user/show/75913668-luca) profile
+You can find more on my [Goodreads](https://www.goodreads.com/user/show/75913668-luca) profile.
 
 ### :newspaper: You can find me on [Bluesky](https://bsky.app/profile/lucazulian.bsky.social), [LinkedIn](https://www.linkedin.com/in/zulianluca/) or [Mastodon](https://mastodon.online/@luca_julian)
