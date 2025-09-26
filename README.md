@@ -1,15 +1,14 @@
 ### :wave: Ciao!
 
-Hi, My name is Luca Zulian and I am a Senior Software Engineer with a more than a decade of experience in building scalable and robust applications.
-Specializing in Elixir, Phoenix, Postgres and Typescript, I bring a complete set of skills to drive innovation and excellence within full stack web development with a strong software development life cycle knowledge with a keen eye for product delivery and testing.
-I enjoy participating in tech communities and meetups.
+Hi, I'm Luca Zulian, a Senior Software Developer with over 10 years of experience building scalable, reliable web applications.
+I specialise in Elixir, Phoenix, Postgres, and TypeScript, and I enjoy working across the full stack to deliver clean, maintainable code. I’ve got a solid grasp of the software development lifecycle, with a strong focus on product delivery, testing, and writing code that lasts.
+Outside of work, I like getting involved in tech communities and meetups — always learning, sharing, and staying curious.
 
 ### :billed_cap: More about myself
 
-- :earth_africa: I'm a software craftsman living in Italy
+- :earth_africa: I'm a software developer living in Italy
 - :computer: I've been programming for over half my life. I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, and Elixir (most of my recent projects have been written in Elixir), but I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme, Agda and Elm
 - :speaking_head: My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages, virtual machines and autonomous robot
-- :speech_balloon: I blog fairly regularly on a [journal](https://github.com/lucazulian/journal)
 
 ### :raised_hands: What I'm (currently) excited about
 
