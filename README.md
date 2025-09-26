@@ -13,11 +13,12 @@ I enjoy participating in tech communities and meetups.
 
 ### :raised_hands: What I'm (currently) excited about
 
-- Programming languages & PLT
-- Distributed systems
+- Programming Languages & PLT
+- Distributed Systems
 - Robotics
-- Functional programming
-- Formal methods
+- Functional Programming
+- Formal Methods
+- Theorem Provers / Proof Assistants
 
 ### :brain: Interests
 
