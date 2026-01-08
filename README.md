@@ -1,8 +1,8 @@
 ### :wave: Ciao!
 
 Hi, I'm Luca Zulian, a Senior Software Developer with over 10 years of experience building scalable, reliable web applications.
-I specialise in Elixir, Phoenix, Postgres, and TypeScript, and I enjoy working across the full stack to deliver clean, maintainable code. I’ve got a solid grasp of the software development lifecycle, with a strong focus on product delivery, testing, and writing code that lasts.
-Outside of work, I like getting involved in tech communities and meetups — always learning, sharing, and staying curious.
+I specialise in Elixir, Phoenix, Postgres, TypeScript and I enjoy working across the full stack to deliver clean, maintainable code. I’ve got a solid grasp of the software development lifecycle, with a strong focus on product delivery, testing and writing code that lasts.
+Outside of work, I like getting involved in tech communities and meetups — always learning, sharing and staying curious.
 
 ### :billed_cap: More about myself
 
@@ -18,10 +18,12 @@ Outside of work, I like getting involved in tech communities and meetups — alw
 - Functional Programming
 - Formal Methods
 - Theorem Provers / Proof Assistants
+- Cryptography
+- AI
 
 ### :brain: Interests
 
-- Life, Programming, Meditation, Continuous Self-Improvement, Yoga, Society, Economics, Philosophy, Sports, Music
+- Life, Programming, History, Meditation, Continuous Self-Improvement, Yoga, Philosophy, Sports, Music
 
 ### :seedling: I’m currently learning:
 
