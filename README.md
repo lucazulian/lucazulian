@@ -1,41 +1,44 @@
-### :wave: Ciao!
+### 👋 Ciao!
 
-Hi, I'm Luca Zulian, a Senior Software Developer with over 10 years of experience building scalable, reliable web applications.
-I specialise in Elixir, Phoenix, Postgres, TypeScript and I enjoy working across the full stack to deliver clean, maintainable code. I’ve got a solid grasp of the software development lifecycle, with a strong focus on product delivery, testing and writing code that lasts.
-Outside of work, I like getting involved in tech communities and meetups — always learning, sharing and staying curious.
+I'm Luca Zulian, a Senior Software Developer with over 10 years of experience building scalable, reliable web applications. I specialise in Elixir, Phoenix, PostgreSQL, and TypeScript, working across the full stack to deliver clean, maintainable solutions.
+I'm passionate about functional programming, distributed systems, machine learning and exploring the foundations of computation through compilers, type theory, and formal methods.
 
-### :billed_cap: More about myself
 
-- :earth_africa: I'm a software developer living in Italy
-- :computer: I've been programming for over half my life. I'm comfortable creating, developing, maintaining, and improving software written in C, C#, Python, and Elixir (most of my recent projects have been written in Elixir), but I'd like to work more on Haskell, Rust, Erlang, OCaml, Scheme, Agda and Elm
-- :speaking_head: My current interests revolve around functional programming, algorithms, compilers, interpreters, domain-specific languages, virtual machines and autonomous robot
+### 💼 Technical Focus
 
-### :raised_hands: What I'm (currently) excited about
+**Current Stack:** Elixir, Phoenix, PostgreSQL, TypeScript
 
-- Programming Languages & PLT
-- Distributed Systems
-- Robotics
-- Functional Programming
-- Formal Methods
-- Theorem Provers / Proof Assistants
-- Cryptography
-- AI
+**Also Experienced With:** C, C#, Python, Haskell
 
-### :brain: Interests
+**Exploring:** Haskell, Rust, Erlang, OCaml, Racket, Agda, Elm
 
-- Life, Programming, History, Meditation, Continuous Self-Improvement, Yoga, Philosophy, Sports, Music
 
-### :seedling: I’m currently learning:
+### 🔬 What Excites Me
 
-- Cryptography, Racket and AI
+- Programming Language Theory & Implementation
+- Distributed Systems & Concurrency
+- Formal Methods & Theorem Proving
+- Robotics & Autonomous Systems
+- Cryptography & Security
+- Functional Programming Paradigms
+- AI and Machine Learning
 
-### :video_game: When I am NOT at writing code, I enjoy to
 
-- Read books :books:
-- Walking :walking:, running :running:, climbing :climbing: or sailing :sailboat:
-- Make fresh pasta :spaghetti: or bread :bread:
+### 🌱 Currently Learning
 
-### :books: Books
+Cryptography, Racket, and diving deeper into AI/ML fundamentals
+
+
+### 🌍 Beyond Code
+
+Based in Italy, I'm active in tech communities and meetups. When I'm not programming, you'll find me:
+- Reading (philosophy, history, tech)
+- Outdoors (walking, running, climbing, sailing)
+- In the kitchen (making fresh pasta or baking bread)
+- Practising meditation and yoga
+
+
+### 📚 Books
 
 Currently reading:
 - [Understanding Cryptography, Second Edition](https://www.cryptography-textbook.com/)
