@@ -42,6 +42,8 @@ Based in Italy, I'm active in tech communities and meetups. When I'm not program
 
 Currently reading:
 - [Introduction to Linear Algebra, Sixth Edition](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Python for Data Analysis](https://wesmckinney.com/book/)
 - [Understanding Cryptography, Second Edition](https://www.cryptography-textbook.com/)
 - [The Little Learner](https://www.thelittlelearner.com/)
 - [How to Design Programs](https://htdp.org/)
