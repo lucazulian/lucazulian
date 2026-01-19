@@ -41,14 +41,14 @@ Based in Italy, I'm active in tech communities and meetups. When I'm not program
 ### 📚 Books
 
 Currently reading:
-- [Introduction to Linear Algebra, Sixth Edition](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+- [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Python for Data Analysis](https://wesmckinney.com/book/)
 - [Understanding Cryptography, Second Edition](https://www.cryptography-textbook.com/)
 - [The Little Learner](https://www.thelittlelearner.com/)
 - [How to Design Programs](https://htdp.org/)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Programming in Lua, Fourth Edition](https://www.lua.org/pil/#4ed)
+- [Programming in Lua](https://www.lua.org/pil/#4ed)
 - [The Erlang Run-Time System](https://blog.stenmans.org/theBeamBook/)
 
 Tech books I have read lately:
